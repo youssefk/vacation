@@ -1,6 +1,9 @@
-.jumbotron {
-  background-image: url(../img/hd.jpg);
-  background-size: cover;
+@media (min-width: 768px){
+
+  .jumbotron {
+    background-image: url(../img/hd.jpg);
+    background-size: cover;
+  }
 }
 
 .container {
